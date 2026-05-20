@@ -16,8 +16,4 @@ CS Student passionate about building things for the web and beyond.
 - Grow as an open source contributor
 - Learn React and modern web development
 
-##   GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshikav660&show_icons=true&theme=tokyonight)
-
----
 
