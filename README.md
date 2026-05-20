@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey there! I'm VANSHIKA
 
-<!--
-**vanshikav660/vanshikav660** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Student passionate about building things for the web and beyond.
 
-Here are some ideas to get you started:
+##   Skills & Technologies
+- **Frontend:** HTML, CSS, JavaScript
+- **AI/ML:** Exploring machine learning concepts and tools
+- **Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##   Currently
+-   Contributing to Open Source as a **GSoC '26 Participant**
+-   Exploring beginner-friendly projects to collaborate on
+
+##   Goals
+- Build real-world frontend projects
+- Grow as an open source contributor
+- Learn React and modern web development
+
+##   GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshikav660&show_icons=true&theme=tokyonight)
+
+---
+
